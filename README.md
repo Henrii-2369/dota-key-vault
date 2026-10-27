@@ -1,6 +1,6 @@
 # DOTA Key Vault
 
-中文 | [English documentation →](README.en.md)
+中文 | [English](README.en.md)
 
 Windows 本地 DOTA2 配置管理工具。把常用账号的配置保存下来，再应用到其他账号，省去重复设置的麻烦。
 
