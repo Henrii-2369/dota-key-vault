@@ -1,0 +1,15 @@
+# Local experiment snapshots contain personal game settings and account paths.
+/experiments/local/
+/.local/
+/node_modules/
+/test-results/
+/runtime/node.exe
+/dist/
+/docs/实机验证记录.md
+# Authentication helpers, editor settings and local credentials.
+.env
+.env.*
+!.env.example
+*.log
+
+

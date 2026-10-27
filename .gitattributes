@@ -1,0 +1,6 @@
+* text=auto
+*.cmd text eol=crlf
+*.mjs text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
